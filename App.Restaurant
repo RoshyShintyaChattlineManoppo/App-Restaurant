@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My App Roshy.</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form>
+        <input class="search" type="text" placeholder="Search" required>	
+        <input class="button" type="button" value="Search">		
+      </form>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href=''>App Restaurant</div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#tabout">About</a></li>
+                    <li><a href="#kampus">Kampus</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+        <!-- untuk home -->
+        <section id="home">
+            <div class="kolom">
+                <p class="deskripsi">Menu Makanan dan Minuman</p>
+                <h2>Silahkan dipilih menu-nya</h2>
+                <p>Menu halal 100%</p>
+                <img src="https://asset.kompas.com/crops/0CW5YxHp1lpEtbf5ra0GmgGcZzU=/0x0:0x0/750x500/data/photo/2015/02/18/2346367Fiii-Fun-House-Restaurant-Iris-Cantante-4-600x400p.jpg"/>
+            </div>
+        </section>
+
+
+        <!-- untuk about -->
+        <section id="about">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Gambar Makanan</p>
+                    <h2>Makanan</h2>
+                    <p>Silahkan pilih</p>
+                </div>
+
+                <div class="cumi bakar rica">
+                    <div class="cumi bakar rica">
+                        <p>Cumi Bakar Rica  : Rp. 50.000</p>
+                        <p>Cumi bakar rica terdiri dari rempah-rempah yang sangat lengkap. Menu ini juga lagi banyak yang suka</p>
+                        <img src="http://4.bp.blogspot.com/-YwxLcHG1tng/VnVPXwyyNqI/AAAAAAAAAuk/mRJXdojZ2BI/s1600/cumi%2Brica.jpg"/>
+                    </div>
+                    <div class="fuyung hai">
+                        <p>Fuyung Hai  : Rp.40.000</p>
+                        <p>Fuyunghai atau Puyunghai merupakan hidangan telur dadar dengan campuran sayuran, daging, atau makanan laut.</p>
+                        <img src="https://cdn-2.tstatic.net/tribunnews/foto/bank/images/cara-bikin-fuyunghai-mengembang-dan-tebal-ala-restoran-chinese-food.jpg"/>
+                    </div>
+                    <div class="Kwetiauw Goreng">
+                        <p>Kwetiauw Goreng  : Rp. 30.000</p>
+                        <p>Kwetiau goreng adalah kwetiau yang digoreng yang merupakan masakan Tionghoa Indonesia, itu adalah hidangan mie yang digoreng yang beraroma dan pedas yang umum dijumpai di Indonesia.</p>
+                        <img src="https://asset.kompas.com/crops/1g9P4L73NLmOshdRUptmBe_oQgQ=/0x0:698x465/750x500/data/photo/2020/12/07/5fce3837c4f6d.jpg"/>
+                    </div>
+                    <div class="Sup Kimlo">
+                        <p>Sup Kimlo :  Rp.50.000</p>
+                        <p>Sop kimlo lebih mirip sup sayuran. Isinya berupa wortel, suun, ayam suwir, jamur kuping, kapri, telur puyuh, kembang tahu kering, dan bunga sedap malam kering yang diikat simpul. Moms pasti sering melihat hidangan 
+                            ini di pesta-pesta pernikahan. Sementara itu, timlo seperti paduan sop dan soto</p>
+                        <img src="https://askcaraa.com/wp-content/uploads/2021/02/resep-sup-kimlo.jpg"/>
+                    </div>
+                    <div class="Nasi Goreng Special">
+                        <p>Nasi Goreng Special  : Rp. 28.000</p>
+                        <p>Nasi goreng istimewa dengan sosis, telur, kerupuk, dan mentimun. Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng, margarin, atau mentega. 
+                            Biasanya ditambah kecap manis, bawang merah, bawang putih, asam jawa, lada dan bumbu-bumbu lainnya; seperti telur, ayam, dan kerupuk.</p>
+                        <img src="https://cdn-2.tstatic.net/tribunnews/foto/bank/images/nasi-goreng-kakgf.jpg"/>
+                    </div>
+                    <div class="Burger">
+                        <p>Burger  : Rp. 55.000</p>
+                        <p>makanan berupa roti berbentuk bundar yang diiris dua dan di tengahnya di isi dengan patty yang biasanya diambil dari daging, kemudian sayur-sayuran berupa selada, tomat dan bawang bombai.</p>
+                        <img src="http://kbu-cdn.com/dk/wp-content/uploads/beef-burger-special.jpg"/>
+                    </div>
+                    <div class="Spagethi">
+                        <p>Spagethi  : Rp. 55.000</p>
+                        <p>Spaghetti merupakan salah satu dari varian pasta yang memiliki bentuk silinder tipis dan padat yang terbuat dari olahan gandum. Spaghetti telah menjadi makanan pokok tradisional penduduk Italia.</p>
+                        <img src="https://cdn1-production-images-kly.akamaized.net/lw6Ry6aiWX_SbemYuPVJOh6Xt3k=/1748x0:5493x3745/640x640/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3048436/original/030475400_1581499756-shutterstock_413580649.jpg"/>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- untuk Kampus -->
+        <section id="kampus">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Universitas</p>
+                    <h2>Kampus</h2>
+                    <p>UNKLAB - AIRMADIDI</p>
+                </div>
+
+                <div class="Universitas">
+                    <div class="Kampus">
+                        <img src="http://www.unklab.ac.id/sites/default/files/inline-images/welcome%20III%20SMALL%20SIZE.jpg"/>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <div id="contact">
+        <div class="wrapper">
+            <div class="footer">
+                <div class="footer-section">
+                    <h3>My App</h3>
+                    <p>Aplikasi ini bertujuan untuk menampilkan daftar menu dari pada restaurant</p>
+                </div>
+                <div class="footer-section">
+                    <h3>About</h3>
+                    <p>Nama : Roshy Shintya Chattline Manoppo</p>
+                    <p>TTL : Sorong,28 Januari 2003</p>
+                    <p>Nim : s2200261</p>
+                    <p>Fakultas : Ilmu Komputer</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Contact</h3>
+                    <p>Kmp.Bugis kilo-10</p>
+                    <p>Sorong - Papua Barat</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Social</h3>
+                    <p><b>YouTube: </b>Chattline Shintya</p>
+                    <p><b>Instagram: </b>its.Chattline</p>
+                    <p><b>Tiktok: </b>Chattline.Shintya</p>
+                    <p><b>Facebook: </b>Chattline Shintya</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="copyright">
+        <div class="wrapper">
+            <b>Front - End Web Development 2021</b>
+        </div>
+    </div>
+    
+</body>
+</html>
